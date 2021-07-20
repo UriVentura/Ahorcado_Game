@@ -1,3 +1,3 @@
 # Ahorcado_Game
 
-Popular game called "Ahorcado" or Hangman, programed in java at 2017.
+Popular game called "Ahorcado" or Hangman, made in java, in 2017.
